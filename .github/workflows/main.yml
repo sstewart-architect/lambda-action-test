@@ -1,3 +1,4 @@
+#deploy lambdas to AWS when committed to github
 name: Python application
 on:
   push:
